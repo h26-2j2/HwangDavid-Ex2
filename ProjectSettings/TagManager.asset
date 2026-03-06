@@ -8,6 +8,10 @@ TagManager:
   - Collectable
   - Danger
   - FinJeu
+  - Bonhomme
+  - Portail
+  - Yeti
+  - DrapeauFin
   layers:
   - Default
   - TransparentFX
